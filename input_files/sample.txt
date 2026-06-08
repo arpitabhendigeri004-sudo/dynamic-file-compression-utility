@@ -1,0 +1,3 @@
+Data Structures and Algorithms are important.
+Data Structures and Algorithms are useful.
+Data Structures and Algorithms improve problem solving.

@@ -1,0 +1,6 @@
+Compression Report
+========================================
+
+Original Size : 144 bytes
+Compressed Size : 78 bytes
+Compression Ratio : 54.17%
